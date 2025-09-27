@@ -136,7 +136,7 @@ void loop() {
 ```
 ## Output:
 
-https://github.com/user-attachments/assets/51422a0c-60c6-4a3a-9858-0a153d303a2d
+https://github.com/user-attachments/assets/083ec9fb-a8f1-440e-92da-e08ae47370bb
 
 ## Result:
 Thus measure the Tilt Sensor using SW200D with Arduino UNO Board/ESP-32 using Tinker CAD has been Verified Successfully.
